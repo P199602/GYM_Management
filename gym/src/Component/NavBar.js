@@ -13,6 +13,9 @@ const NavBar = () => {
 
 
   "check push command for learning "
+  "check push command for learning "
+  
+
 
    "check push command for learning "
    "check push command for learning "
