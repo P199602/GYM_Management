@@ -11,6 +11,9 @@ const NavBar = () => {
     return storedData && storedData.userData && storedData.userData.Email && storedData.userData.Name;
   };
 
+
+  "check push command for learning "
+
   useEffect(() => {
     setIsUserRegistered(checkUserRegistration());
   }, []);
